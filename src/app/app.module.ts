@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 
 @NgModule({
     imports: [
-        BrowserModule
+        BrowserModule.withServerTransition({appId: 'angular4-universal-material-webpack'})
     ],
     declarations: [
         AppComponent
