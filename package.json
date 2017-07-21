@@ -29,6 +29,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@angular/animations": "^4.3.1",
     "@angular/common": "~4.2.0",
     "@angular/compiler": "~4.2.0",
     "@angular/core": "~4.2.0",
@@ -36,6 +37,7 @@
     "@angular/http": "~4.2.0",
     "@angular/platform-browser": "~4.2.0",
     "@angular/platform-browser-dynamic": "~4.2.0",
+    "@angular/platform-server": "^4.3.1",
     "@angular/router": "~4.2.0",
     "core-js": "^2.4.1",
     "rxjs": "5.0.1",
